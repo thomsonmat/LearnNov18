@@ -7,5 +7,5 @@ prop_over_7feet_tail <- 1- pnorm(84,mean_heights,stddeviation)
 prop_over_7feet*100##print the result
 ##testing the push function now
 ##testing SSH function
-
+##next testing the PULL function in Rstudio
 

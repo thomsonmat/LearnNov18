@@ -9,4 +9,4 @@ prop_over_7feet*100##print the result
 ##testing SSH function
 ##next testing the PULL function in Rstudio
 ##Pull seems to work effectively - trying again
-## PUSH to github again to check if it needs user name pwd again
+## PUSH to github again to check if it needs user name pwd again - it is requiring username pwd each time -not fixed yet - whats .git directory? 

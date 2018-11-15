@@ -8,4 +8,4 @@ prop_over_7feet*100##print the result
 ##testing the push function now
 ##testing SSH function
 ##next testing the PULL function in Rstudio
-
+##Pull seems to work effectively - trying again
